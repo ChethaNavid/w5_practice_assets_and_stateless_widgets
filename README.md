@@ -1,16 +1,22 @@
 # w5_practice_assets_and_stateless_widgets
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the instructions below to run each exercise in Flutter:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Exercise 1**  
+  ```bash
+  flutter run -t lib/EX-1/main.dart
+  ```
+- **Exercise 2**  
+    ```bash
+    flutter run -t lib/EX-2/main.dart
+    ```
+- **Exercise 3**  
+    ```bash
+    flutter run -t lib/EX-3/main.dart
+    ```
+- **Exercise 4**  
+    ```bash
+    flutter run -t lib/EX-4/main.dart
+    ```
